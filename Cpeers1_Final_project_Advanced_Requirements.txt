@@ -1,0 +1,25 @@
+Okay, so, this is probably gonna be more of a log of the additions since last time this project was seen.
+Before, I had the framework for this game: Most of mario's actions and stuff, and regretablly, not much has been added. I regret my old coding progresses because they are a pain to add onto, but heres whats been added:
+
+Starman Powerup
+
+Area Transitions
+
+Improved Ground Collision Detection (still a bit buggy, you can hop up walls, but it actually works with edge colliders unlike the previous one. This could still use work.)
+
+Powerup / Depower Code to Mario
+
+Mushroom Powerup (You can depower, but nothing hurts you yet besides your own shells.)
+
+Ambience and Music (Basically a Audio System slight Rework)
+
+Areas within Level (You can have a sub-area inside a level that doesn't reset the timer and stuff now.)
+
+Thats about it, really. I wish I gave myself more time, but I didn't have the energy nor the time to complete both this and the monogame project to the fullest degree. 
+
+I'm not sure what marks to assign these, so im leaving that mostly up to you. I hope thats not too much to ask.
+If I had to give myself a mark out of twenty though...
+
+My suggestion is giving myself a 12 / 20 for advanced requirements. I don't know though.
+I hope this is all acceptable.. what a mess
+

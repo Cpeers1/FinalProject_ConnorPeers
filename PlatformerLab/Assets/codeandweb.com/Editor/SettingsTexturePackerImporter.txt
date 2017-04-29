@@ -1,0 +1,15 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/SMWAASF/Peach/PeachSheet.tpsheet
+- Assets/Sprites/Entitys/Characters/Peach/PeachSheet.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/SMWAASF/Peach/PeachSheet.png
+- Assets/Sprites/Entitys/Characters/Peach/PeachSheet.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+enableDebugOutput: 0

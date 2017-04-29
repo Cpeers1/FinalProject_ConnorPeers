@@ -1,0 +1,3226 @@
+fileFormatVersion: 2
+guid: e87881b030a05234fadb1dc7e469e991
+timeCreated: 1458672683
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES - Super Mario World - Castle Fortress Tiles_0
+    21300002: SNES - Super Mario World - Castle Fortress Tiles_1
+    21300004: SNES - Super Mario World - Castle Fortress Tiles_2
+    21300006: SNES - Super Mario World - Castle Fortress Tiles_3
+    21300008: SNES - Super Mario World - Castle Fortress Tiles_4
+    21300010: SNES - Super Mario World - Castle Fortress Tiles_5
+    21300012: SNES - Super Mario World - Castle Fortress Tiles_6
+    21300014: SNES - Super Mario World - Castle Fortress Tiles_7
+    21300016: SNES - Super Mario World - Castle Fortress Tiles_8
+    21300018: SNES - Super Mario World - Castle Fortress Tiles_9
+    21300020: SNES - Super Mario World - Castle Fortress Tiles_10
+    21300022: SNES - Super Mario World - Castle Fortress Tiles_11
+    21300024: SNES - Super Mario World - Castle Fortress Tiles_12
+    21300026: SNES - Super Mario World - Castle Fortress Tiles_13
+    21300028: SNES - Super Mario World - Castle Fortress Tiles_14
+    21300030: SNES - Super Mario World - Castle Fortress Tiles_15
+    21300032: SNES - Super Mario World - Castle Fortress Tiles_16
+    21300034: SNES - Super Mario World - Castle Fortress Tiles_17
+    21300036: SNES - Super Mario World - Castle Fortress Tiles_18
+    21300038: SNES - Super Mario World - Castle Fortress Tiles_19
+    21300040: SNES - Super Mario World - Castle Fortress Tiles_20
+    21300042: SNES - Super Mario World - Castle Fortress Tiles_21
+    21300044: SNES - Super Mario World - Castle Fortress Tiles_22
+    21300046: SNES - Super Mario World - Castle Fortress Tiles_23
+    21300048: SNES - Super Mario World - Castle Fortress Tiles_24
+    21300050: SNES - Super Mario World - Castle Fortress Tiles_25
+    21300052: SNES - Super Mario World - Castle Fortress Tiles_26
+    21300054: SNES - Super Mario World - Castle Fortress Tiles_27
+    21300056: SNES - Super Mario World - Castle Fortress Tiles_28
+    21300058: SNES - Super Mario World - Castle Fortress Tiles_29
+    21300060: SNES - Super Mario World - Castle Fortress Tiles_30
+    21300062: SNES - Super Mario World - Castle Fortress Tiles_31
+    21300064: SNES - Super Mario World - Castle Fortress Tiles_32
+    21300066: SNES - Super Mario World - Castle Fortress Tiles_33
+    21300068: SNES - Super Mario World - Castle Fortress Tiles_34
+    21300070: SNES - Super Mario World - Castle Fortress Tiles_35
+    21300072: SNES - Super Mario World - Castle Fortress Tiles_36
+    21300074: SNES - Super Mario World - Castle Fortress Tiles_37
+    21300076: SNES - Super Mario World - Castle Fortress Tiles_38
+    21300078: SNES - Super Mario World - Castle Fortress Tiles_39
+    21300080: SNES - Super Mario World - Castle Fortress Tiles_40
+    21300082: SNES - Super Mario World - Castle Fortress Tiles_41
+    21300084: SNES - Super Mario World - Castle Fortress Tiles_42
+    21300086: SNES - Super Mario World - Castle Fortress Tiles_43
+    21300088: SNES - Super Mario World - Castle Fortress Tiles_44
+    21300090: SNES - Super Mario World - Castle Fortress Tiles_45
+    21300092: SNES - Super Mario World - Castle Fortress Tiles_46
+    21300094: SNES - Super Mario World - Castle Fortress Tiles_47
+    21300096: SNES - Super Mario World - Castle Fortress Tiles_48
+    21300098: SNES - Super Mario World - Castle Fortress Tiles_49
+    21300100: SNES - Super Mario World - Castle Fortress Tiles_50
+    21300102: SNES - Super Mario World - Castle Fortress Tiles_51
+    21300104: SNES - Super Mario World - Castle Fortress Tiles_52
+    21300106: SNES - Super Mario World - Castle Fortress Tiles_53
+    21300108: SNES - Super Mario World - Castle Fortress Tiles_54
+    21300110: SNES - Super Mario World - Castle Fortress Tiles_55
+    21300112: SNES - Super Mario World - Castle Fortress Tiles_56
+    21300114: SNES - Super Mario World - Castle Fortress Tiles_57
+    21300116: SNES - Super Mario World - Castle Fortress Tiles_58
+    21300118: SNES - Super Mario World - Castle Fortress Tiles_59
+    21300120: SNES - Super Mario World - Castle Fortress Tiles_60
+    21300122: SNES - Super Mario World - Castle Fortress Tiles_61
+    21300124: SNES - Super Mario World - Castle Fortress Tiles_62
+    21300126: SNES - Super Mario World - Castle Fortress Tiles_63
+    21300128: SNES - Super Mario World - Castle Fortress Tiles_64
+    21300130: SNES - Super Mario World - Castle Fortress Tiles_65
+    21300132: SNES - Super Mario World - Castle Fortress Tiles_66
+    21300134: SNES - Super Mario World - Castle Fortress Tiles_67
+    21300136: SNES - Super Mario World - Castle Fortress Tiles_68
+    21300138: SNES - Super Mario World - Castle Fortress Tiles_69
+    21300140: SNES - Super Mario World - Castle Fortress Tiles_70
+    21300142: SNES - Super Mario World - Castle Fortress Tiles_71
+    21300144: SNES - Super Mario World - Castle Fortress Tiles_72
+    21300146: SNES - Super Mario World - Castle Fortress Tiles_73
+    21300148: SNES - Super Mario World - Castle Fortress Tiles_74
+    21300150: SNES - Super Mario World - Castle Fortress Tiles_75
+    21300152: SNES - Super Mario World - Castle Fortress Tiles_76
+    21300154: SNES - Super Mario World - Castle Fortress Tiles_77
+    21300156: SNES - Super Mario World - Castle Fortress Tiles_78
+    21300158: SNES - Super Mario World - Castle Fortress Tiles_79
+    21300160: SNES - Super Mario World - Castle Fortress Tiles_80
+    21300162: SNES - Super Mario World - Castle Fortress Tiles_81
+    21300164: SNES - Super Mario World - Castle Fortress Tiles_82
+    21300166: SNES - Super Mario World - Castle Fortress Tiles_83
+    21300168: SNES - Super Mario World - Castle Fortress Tiles_84
+    21300170: SNES - Super Mario World - Castle Fortress Tiles_85
+    21300172: SNES - Super Mario World - Castle Fortress Tiles_86
+    21300174: SNES - Super Mario World - Castle Fortress Tiles_87
+    21300176: SNES - Super Mario World - Castle Fortress Tiles_88
+    21300178: SNES - Super Mario World - Castle Fortress Tiles_89
+    21300180: SNES - Super Mario World - Castle Fortress Tiles_90
+    21300182: SNES - Super Mario World - Castle Fortress Tiles_91
+    21300184: SNES - Super Mario World - Castle Fortress Tiles_92
+    21300186: SNES - Super Mario World - Castle Fortress Tiles_93
+    21300188: SNES - Super Mario World - Castle Fortress Tiles_94
+    21300190: SNES - Super Mario World - Castle Fortress Tiles_95
+    21300192: SNES - Super Mario World - Castle Fortress Tiles_96
+    21300194: SNES - Super Mario World - Castle Fortress Tiles_97
+    21300196: SNES - Super Mario World - Castle Fortress Tiles_98
+    21300198: SNES - Super Mario World - Castle Fortress Tiles_99
+    21300200: SNES - Super Mario World - Castle Fortress Tiles_100
+    21300202: SNES - Super Mario World - Castle Fortress Tiles_101
+    21300204: SNES - Super Mario World - Castle Fortress Tiles_102
+    21300206: SNES - Super Mario World - Castle Fortress Tiles_103
+    21300208: SNES - Super Mario World - Castle Fortress Tiles_104
+    21300210: SNES - Super Mario World - Castle Fortress Tiles_105
+    21300212: SNES - Super Mario World - Castle Fortress Tiles_106
+    21300214: SNES - Super Mario World - Castle Fortress Tiles_107
+    21300216: SNES - Super Mario World - Castle Fortress Tiles_108
+    21300218: SNES - Super Mario World - Castle Fortress Tiles_109
+    21300220: SNES - Super Mario World - Castle Fortress Tiles_110
+    21300222: SNES - Super Mario World - Castle Fortress Tiles_111
+    21300224: SNES - Super Mario World - Castle Fortress Tiles_112
+    21300226: SNES - Super Mario World - Castle Fortress Tiles_113
+    21300228: SNES - Super Mario World - Castle Fortress Tiles_114
+    21300230: SNES - Super Mario World - Castle Fortress Tiles_115
+    21300232: SNES - Super Mario World - Castle Fortress Tiles_116
+    21300234: SNES - Super Mario World - Castle Fortress Tiles_117
+    21300236: SNES - Super Mario World - Castle Fortress Tiles_118
+    21300238: SNES - Super Mario World - Castle Fortress Tiles_119
+    21300240: SNES - Super Mario World - Castle Fortress Tiles_120
+    21300242: SNES - Super Mario World - Castle Fortress Tiles_121
+    21300244: SNES - Super Mario World - Castle Fortress Tiles_122
+    21300246: SNES - Super Mario World - Castle Fortress Tiles_123
+    21300248: SNES - Super Mario World - Castle Fortress Tiles_124
+    21300250: SNES - Super Mario World - Castle Fortress Tiles_125
+    21300252: SNES - Super Mario World - Castle Fortress Tiles_126
+    21300254: SNES - Super Mario World - Castle Fortress Tiles_127
+    21300256: SNES - Super Mario World - Castle Fortress Tiles_128
+    21300258: SNES - Super Mario World - Castle Fortress Tiles_129
+    21300260: SNES - Super Mario World - Castle Fortress Tiles_130
+    21300262: SNES - Super Mario World - Castle Fortress Tiles_131
+    21300264: SNES - Super Mario World - Castle Fortress Tiles_132
+    21300266: SNES - Super Mario World - Castle Fortress Tiles_133
+    21300268: SNES - Super Mario World - Castle Fortress Tiles_134
+    21300270: SNES - Super Mario World - Castle Fortress Tiles_135
+    21300272: SNES - Super Mario World - Castle Fortress Tiles_136
+    21300274: SNES - Super Mario World - Castle Fortress Tiles_137
+    21300276: SNES - Super Mario World - Castle Fortress Tiles_138
+    21300278: SNES - Super Mario World - Castle Fortress Tiles_139
+    21300280: SNES - Super Mario World - Castle Fortress Tiles_140
+    21300282: SNES - Super Mario World - Castle Fortress Tiles_141
+    21300284: SNES - Super Mario World - Castle Fortress Tiles_142
+    21300286: SNES - Super Mario World - Castle Fortress Tiles_143
+    21300288: SNES - Super Mario World - Castle Fortress Tiles_144
+    21300290: SNES - Super Mario World - Castle Fortress Tiles_145
+    21300292: SNES - Super Mario World - Castle Fortress Tiles_146
+    21300294: SNES - Super Mario World - Castle Fortress Tiles_147
+    21300296: SNES - Super Mario World - Castle Fortress Tiles_148
+    21300298: SNES - Super Mario World - Castle Fortress Tiles_149
+    21300300: SNES - Super Mario World - Castle Fortress Tiles_150
+    21300302: SNES - Super Mario World - Castle Fortress Tiles_151
+    21300304: SNES - Super Mario World - Castle Fortress Tiles_152
+    21300306: SNES - Super Mario World - Castle Fortress Tiles_153
+    21300308: SNES - Super Mario World - Castle Fortress Tiles_154
+    21300310: SNES - Super Mario World - Castle Fortress Tiles_155
+    21300312: SNES - Super Mario World - Castle Fortress Tiles_156
+    21300314: SNES - Super Mario World - Castle Fortress Tiles_157
+    21300316: SNES - Super Mario World - Castle Fortress Tiles_158
+    21300318: SNES - Super Mario World - Castle Fortress Tiles_159
+    21300320: SNES - Super Mario World - Castle Fortress Tiles_160
+    21300322: SNES - Super Mario World - Castle Fortress Tiles_161
+    21300324: SNES - Super Mario World - Castle Fortress Tiles_162
+    21300326: SNES - Super Mario World - Castle Fortress Tiles_163
+    21300328: SNES - Super Mario World - Castle Fortress Tiles_164
+    21300330: SNES - Super Mario World - Castle Fortress Tiles_165
+    21300332: SNES - Super Mario World - Castle Fortress Tiles_166
+    21300334: SNES - Super Mario World - Castle Fortress Tiles_167
+    21300336: SNES - Super Mario World - Castle Fortress Tiles_168
+    21300338: SNES - Super Mario World - Castle Fortress Tiles_169
+    21300340: SNES - Super Mario World - Castle Fortress Tiles_170
+    21300342: SNES - Super Mario World - Castle Fortress Tiles_171
+    21300344: SNES - Super Mario World - Castle Fortress Tiles_172
+    21300346: SNES - Super Mario World - Castle Fortress Tiles_173
+    21300348: SNES - Super Mario World - Castle Fortress Tiles_174
+    21300350: SNES - Super Mario World - Castle Fortress Tiles_175
+    21300352: SNES - Super Mario World - Castle Fortress Tiles_176
+    21300354: SNES - Super Mario World - Castle Fortress Tiles_177
+    21300356: SNES - Super Mario World - Castle Fortress Tiles_178
+    21300358: SNES - Super Mario World - Castle Fortress Tiles_179
+    21300360: SNES - Super Mario World - Castle Fortress Tiles_180
+    21300362: SNES - Super Mario World - Castle Fortress Tiles_181
+    21300364: SNES - Super Mario World - Castle Fortress Tiles_182
+    21300366: SNES - Super Mario World - Castle Fortress Tiles_183
+    21300368: SNES - Super Mario World - Castle Fortress Tiles_184
+    21300370: SNES - Super Mario World - Castle Fortress Tiles_185
+    21300372: SNES - Super Mario World - Castle Fortress Tiles_186
+    21300374: SNES - Super Mario World - Castle Fortress Tiles_187
+    21300376: SNES - Super Mario World - Castle Fortress Tiles_188
+    21300378: SNES - Super Mario World - Castle Fortress Tiles_189
+    21300380: SNES - Super Mario World - Castle Fortress Tiles_190
+    21300382: SNES - Super Mario World - Castle Fortress Tiles_191
+    21300384: SNES - Super Mario World - Castle Fortress Tiles_192
+    21300386: SNES - Super Mario World - Castle Fortress Tiles_193
+    21300388: SNES - Super Mario World - Castle Fortress Tiles_194
+    21300390: SNES - Super Mario World - Castle Fortress Tiles_195
+    21300392: SNES - Super Mario World - Castle Fortress Tiles_196
+    21300394: SNES - Super Mario World - Castle Fortress Tiles_197
+    21300396: SNES - Super Mario World - Castle Fortress Tiles_198
+    21300398: SNES - Super Mario World - Castle Fortress Tiles_199
+    21300400: SNES - Super Mario World - Castle Fortress Tiles_200
+    21300402: SNES - Super Mario World - Castle Fortress Tiles_201
+    21300404: SNES - Super Mario World - Castle Fortress Tiles_202
+    21300406: SNES - Super Mario World - Castle Fortress Tiles_203
+    21300408: SNES - Super Mario World - Castle Fortress Tiles_204
+    21300410: SNES - Super Mario World - Castle Fortress Tiles_205
+    21300412: SNES - Super Mario World - Castle Fortress Tiles_206
+    21300414: SNES - Super Mario World - Castle Fortress Tiles_207
+    21300416: SNES - Super Mario World - Castle Fortress Tiles_208
+    21300418: SNES - Super Mario World - Castle Fortress Tiles_209
+    21300420: SNES - Super Mario World - Castle Fortress Tiles_210
+    21300422: SNES - Super Mario World - Castle Fortress Tiles_211
+    21300424: SNES - Super Mario World - Castle Fortress Tiles_212
+    21300426: SNES - Super Mario World - Castle Fortress Tiles_213
+    21300428: SNES - Super Mario World - Castle Fortress Tiles_214
+    21300430: SNES - Super Mario World - Castle Fortress Tiles_215
+    21300432: SNES - Super Mario World - Castle Fortress Tiles_216
+    21300434: SNES - Super Mario World - Castle Fortress Tiles_217
+    21300436: SNES - Super Mario World - Castle Fortress Tiles_218
+    21300438: SNES - Super Mario World - Castle Fortress Tiles_219
+    21300440: SNES - Super Mario World - Castle Fortress Tiles_220
+    21300442: SNES - Super Mario World - Castle Fortress Tiles_221
+    21300444: SNES - Super Mario World - Castle Fortress Tiles_222
+    21300446: SNES - Super Mario World - Castle Fortress Tiles_223
+    21300448: SNES - Super Mario World - Castle Fortress Tiles_224
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 201
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 202
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 185
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 184
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_67
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_68
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_69
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_70
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_71
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_72
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_73
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_74
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_75
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_76
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_77
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_79
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_80
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 167
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_81
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 165
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_82
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 165
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_83
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 168
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_85
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_86
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_87
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_88
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_89
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_90
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_91
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_92
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_93
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_94
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_95
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_96
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_97
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_99
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_100
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 150
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_101
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_102
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_103
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 151
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_105
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_106
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_107
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_108
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_109
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_110
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_111
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_112
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_113
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_114
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_115
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_116
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_117
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 142
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_119
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 142
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_120
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 134
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_121
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_122
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_123
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 133
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_124
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_125
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_126
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_127
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_128
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_129
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_130
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_131
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_132
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_133
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_134
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_135
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_137
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_138
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 123
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_139
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 123
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_140
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 116
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_141
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_142
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_143
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 117
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_144
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_145
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_146
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_147
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_148
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_149
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_150
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_151
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_152
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_153
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_154
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_155
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_156
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_157
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_158
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_159
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_160
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_161
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_162
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_163
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_164
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_165
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_166
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_167
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_168
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_169
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_170
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_171
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_172
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_173
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_174
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_175
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_176
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_177
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_178
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_179
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 71
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_180
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 72
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_181
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 46
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_182
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_183
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_184
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_185
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_186
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_187
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_188
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 72
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_189
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_190
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_191
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_192
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_193
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 54
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_194
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_195
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 56
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_196
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 57
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_197
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_198
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_199
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_200
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_201
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_202
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_203
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_204
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_205
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_206
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_207
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_208
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_209
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 40
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_210
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 40
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_211
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_212
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_213
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 34
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_214
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 17
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_215
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_216
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_217
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_218
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_219
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_220
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_221
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_222
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_223
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Castle Fortress Tiles_224
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

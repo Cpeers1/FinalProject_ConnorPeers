@@ -1,0 +1,27 @@
+Requirement: Has at least 2 moving assets (generally player and one or more enemy assets)
+Mark: 2/2
+Explanation: Mario, Shells, Powerups... Ect.
+
+Requirement: Includes a HuD that displays at least 2 relevant values and updates information during gameplay, for example a score, lives remaining, kills, etc. It should be separate from the game play area, or integrate with the gameplay area in a clever/designy way (yes, your instructor just invented the word "designy"). In other words, zero marks will be awarded for just simple text somewhere on the gameplay area.
+Mark: 3 / 3
+Explanation: Hud displays score, coins, and time.
+
+Requirement: Has at least one asset type that is multiple in nature (like projectiles)
+Mark: 1/1
+Explanation: A ton of blocks and the like, shells, powerups, you name it.
+
+Requirement: Uses at least 2 sounds. 
+Mark: 1/1
+Explanation: Listen :p
+
+Requirement: The game must be a "game". So, it must have a beginning, a period of action/playing, and an end. 
+Mark: 3/4
+Explanation: The demo right now doesn't really have a end. One of the demo levels, do, but..
+
+Requirement: The game should be fun. Whether your game is "fun" enough to merit 0, 1, or 2 marks will be determined by you in conjunction with your instructor.
+Mark: Up to you!
+Explanation: I think its fun, but thats because its mario. :p
+
+Requirement: The game should make use of the Unity Physics engine in some way.
+Mark: 4 / 4
+Explanation: Its pretty visible that its being used.

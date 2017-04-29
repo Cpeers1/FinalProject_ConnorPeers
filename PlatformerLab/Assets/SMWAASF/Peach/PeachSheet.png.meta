@@ -1,0 +1,2224 @@
+fileFormatVersion: 2
+guid: 3ec162fd1b14514468dfaf29379a72ec
+timeCreated: 1492524972
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Nintendo 64 - Paper Mario - Peach_0000
+    21300002: Nintendo 64 - Paper Mario - Peach_0001
+    21300004: Nintendo 64 - Paper Mario - Peach_0002
+    21300006: Nintendo 64 - Paper Mario - Peach_0003
+    21300008: Nintendo 64 - Paper Mario - Peach_0004
+    21300010: Nintendo 64 - Paper Mario - Peach_0005
+    21300012: Nintendo 64 - Paper Mario - Peach_0006
+    21300014: Nintendo 64 - Paper Mario - Peach_0007
+    21300016: Nintendo 64 - Paper Mario - Peach_0008
+    21300018: Nintendo 64 - Paper Mario - Peach_0009
+    21300020: Nintendo 64 - Paper Mario - Peach_0010
+    21300022: Nintendo 64 - Paper Mario - Peach_0011
+    21300024: Nintendo 64 - Paper Mario - Peach_0012
+    21300026: Nintendo 64 - Paper Mario - Peach_0013
+    21300028: Nintendo 64 - Paper Mario - Peach_0014
+    21300030: Nintendo 64 - Paper Mario - Peach_0015
+    21300032: Nintendo 64 - Paper Mario - Peach_0016
+    21300034: Nintendo 64 - Paper Mario - Peach_0017
+    21300036: Nintendo 64 - Paper Mario - Peach_0018
+    21300038: Nintendo 64 - Paper Mario - Peach_0019
+    21300040: Nintendo 64 - Paper Mario - Peach_0020
+    21300042: Nintendo 64 - Paper Mario - Peach_0021
+    21300044: Nintendo 64 - Paper Mario - Peach_0022
+    21300046: Nintendo 64 - Paper Mario - Peach_0023
+    21300048: Nintendo 64 - Paper Mario - Peach_0024
+    21300050: Nintendo 64 - Paper Mario - Peach_0025
+    21300052: Nintendo 64 - Paper Mario - Peach_0026
+    21300054: Nintendo 64 - Paper Mario - Peach_0027
+    21300056: Nintendo 64 - Paper Mario - Peach_0028
+    21300058: Nintendo 64 - Paper Mario - Peach_0029
+    21300060: Nintendo 64 - Paper Mario - Peach_0030
+    21300062: Nintendo 64 - Paper Mario - Peach_0031
+    21300064: Nintendo 64 - Paper Mario - Peach_0032
+    21300066: Nintendo 64 - Paper Mario - Peach_0033
+    21300068: Nintendo 64 - Paper Mario - Peach_0034
+    21300070: Nintendo 64 - Paper Mario - Peach_0035
+    21300072: Nintendo 64 - Paper Mario - Peach_0036
+    21300074: Nintendo 64 - Paper Mario - Peach_0037
+    21300076: Nintendo 64 - Paper Mario - Peach_0038
+    21300078: Nintendo 64 - Paper Mario - Peach_0039
+    21300080: Nintendo 64 - Paper Mario - Peach_0040
+    21300082: Nintendo 64 - Paper Mario - Peach_0041
+    21300084: Nintendo 64 - Paper Mario - Peach_0042
+    21300086: Nintendo 64 - Paper Mario - Peach_0043
+    21300088: Nintendo 64 - Paper Mario - Peach_0044
+    21300090: Nintendo 64 - Paper Mario - Peach_0045
+    21300092: Nintendo 64 - Paper Mario - Peach_0046
+    21300094: Nintendo 64 - Paper Mario - Peach_0047
+    21300096: Nintendo 64 - Paper Mario - Peach_0048
+    21300098: Nintendo 64 - Paper Mario - Peach_0049
+    21300100: Nintendo 64 - Paper Mario - Peach_0050
+    21300102: Nintendo 64 - Paper Mario - Peach_0051
+    21300104: Nintendo 64 - Paper Mario - Peach_0052
+    21300106: Nintendo 64 - Paper Mario - Peach_0053
+    21300108: Nintendo 64 - Paper Mario - Peach_0054
+    21300110: Nintendo 64 - Paper Mario - Peach_0055
+    21300112: Nintendo 64 - Paper Mario - Peach_0056
+    21300114: Nintendo 64 - Paper Mario - Peach_0057
+    21300116: Nintendo 64 - Paper Mario - Peach_0058
+    21300118: Nintendo 64 - Paper Mario - Peach_0059
+    21300120: Nintendo 64 - Paper Mario - Peach_0060
+    21300122: Nintendo 64 - Paper Mario - Peach_0061
+    21300124: Nintendo 64 - Paper Mario - Peach_0062
+    21300126: Nintendo 64 - Paper Mario - Peach_0063
+    21300128: Nintendo 64 - Paper Mario - Peach_0064
+    21300130: Nintendo 64 - Paper Mario - Peach_0065
+    21300132: Nintendo 64 - Paper Mario - Peach_0066
+    21300134: Nintendo 64 - Paper Mario - Peach_0067
+    21300136: Nintendo 64 - Paper Mario - Peach_0068
+    21300138: Nintendo 64 - Paper Mario - Peach_0069
+    21300140: Nintendo 64 - Paper Mario - Peach_0070
+    21300142: Nintendo 64 - Paper Mario - Peach_0071
+    21300144: Nintendo 64 - Paper Mario - Peach_0072
+    21300146: Nintendo 64 - Paper Mario - Peach_0073
+    21300148: Nintendo 64 - Paper Mario - Peach_0074
+    21300150: Nintendo 64 - Paper Mario - Peach_0075
+    21300152: Nintendo 64 - Paper Mario - Peach_0076
+    21300154: Nintendo 64 - Paper Mario - Peach_0077
+    21300156: Nintendo 64 - Paper Mario - Peach_0078
+    21300158: Nintendo 64 - Paper Mario - Peach_0079
+    21300160: Nintendo 64 - Paper Mario - Peach_0080
+    21300162: Nintendo 64 - Paper Mario - Peach_0081
+    21300164: Nintendo 64 - Paper Mario - Peach_0082
+    21300166: Nintendo 64 - Paper Mario - Peach_0083
+    21300168: Nintendo 64 - Paper Mario - Peach_0084
+    21300170: Nintendo 64 - Paper Mario - Peach_0085
+    21300172: Nintendo 64 - Paper Mario - Peach_0086
+    21300174: Nintendo 64 - Paper Mario - Peach_0087
+    21300176: Nintendo 64 - Paper Mario - Peach_0088
+    21300178: Nintendo 64 - Paper Mario - Peach_0089
+    21300180: Nintendo 64 - Paper Mario - Peach_0090
+    21300182: Nintendo 64 - Paper Mario - Peach_0091
+    21300184: Nintendo 64 - Paper Mario - Peach_0092
+    21300186: Nintendo 64 - Paper Mario - Peach_0093
+    21300188: Nintendo 64 - Paper Mario - Peach_0094
+    21300190: Nintendo 64 - Paper Mario - Peach_0095
+    21300192: Nintendo 64 - Paper Mario - Peach_0096
+    21300194: Nintendo 64 - Paper Mario - Peach_0097
+    21300196: Nintendo 64 - Paper Mario - Peach_0098
+    21300198: Nintendo 64 - Paper Mario - Peach_0099
+    21300200: Nintendo 64 - Paper Mario - Peach_0100
+    21300202: Nintendo 64 - Paper Mario - Peach_0101
+    21300204: Nintendo 64 - Paper Mario - Peach_0102
+    21300206: Nintendo 64 - Paper Mario - Peach_0103
+    21300208: Nintendo 64 - Paper Mario - Peach_0104
+    21300210: Nintendo 64 - Paper Mario - Peach_0105
+    21300212: Nintendo 64 - Paper Mario - Peach_0106
+    21300214: Nintendo 64 - Paper Mario - Peach_0107
+    21300216: Nintendo 64 - Paper Mario - Peach_0108
+    21300218: Nintendo 64 - Paper Mario - Peach_0109
+    21300220: Nintendo 64 - Paper Mario - Peach_0110
+    21300222: Nintendo 64 - Paper Mario - Peach_0111
+    21300224: Nintendo 64 - Paper Mario - Peach_0112
+    21300226: Nintendo 64 - Paper Mario - Peach_0113
+    21300228: Nintendo 64 - Paper Mario - Peach_0114
+    21300230: Nintendo 64 - Paper Mario - Peach_0115
+    21300232: Nintendo 64 - Paper Mario - Peach_0116
+    21300234: Nintendo 64 - Paper Mario - Peach_0117
+    21300236: Nintendo 64 - Paper Mario - Peach_0118
+    21300238: Nintendo 64 - Paper Mario - Peach_0119
+    21300240: Nintendo 64 - Paper Mario - Peach_0120
+    21300242: Nintendo 64 - Paper Mario - Peach_0121
+    21300244: Nintendo 64 - Paper Mario - Peach_0122
+    21300246: Nintendo 64 - Paper Mario - Peach_0123
+    21300248: Nintendo 64 - Paper Mario - Peach_0124
+    21300250: Nintendo 64 - Paper Mario - Peach_0125
+    21300252: Nintendo 64 - Paper Mario - Peach_0126
+    21300254: Nintendo 64 - Paper Mario - Peach_0127
+    21300256: Nintendo 64 - Paper Mario - Peach_0128
+    21300258: Nintendo 64 - Paper Mario - Peach_0129
+    21300260: Nintendo 64 - Paper Mario - Peach_0130
+    21300262: Nintendo 64 - Paper Mario - Peach_0131
+    21300264: Nintendo 64 - Paper Mario - Peach_0132
+    21300266: Nintendo 64 - Paper Mario - Peach_0133
+    21300268: Nintendo 64 - Paper Mario - Peach_0134
+    21300270: Nintendo 64 - Paper Mario - Peach_0135
+    21300272: Nintendo 64 - Paper Mario - Peach_0136
+    21300274: Nintendo 64 - Paper Mario - Peach_0137
+    21300276: Nintendo 64 - Paper Mario - Peach_0138
+    21300278: Nintendo 64 - Paper Mario - Peach_0139
+    21300280: Nintendo 64 - Paper Mario - Peach_0140
+    21300282: Nintendo 64 - Paper Mario - Peach_0141
+    21300284: Nintendo 64 - Paper Mario - Peach_0142
+    21300286: Nintendo 64 - Paper Mario - Peach_0143
+    21300288: Nintendo 64 - Paper Mario - Peach_0144
+    21300290: Nintendo 64 - Paper Mario - Peach_0145
+    21300292: Nintendo 64 - Paper Mario - Peach_0146
+    21300294: Nintendo 64 - Paper Mario - Peach_0147
+    21300296: Nintendo 64 - Paper Mario - Peach_0148
+    21300298: Nintendo 64 - Paper Mario - Peach_0149
+    21300300: Nintendo 64 - Paper Mario - Peach_0150
+    21300302: Nintendo 64 - Paper Mario - Peach_0151
+    21300304: Nintendo 64 - Paper Mario - Peach_0152
+    21300306: Nintendo 64 - Paper Mario - Peach_0153
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0000
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 732
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0001
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 729
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0002
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 726
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0003
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 725
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0004
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 718
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0005
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 718
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0006
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 63
+        width: 44
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0007
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 63
+        width: 44
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0008
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 63
+        width: 44
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0009
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 44
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0010
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 705
+        width: 41
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0011
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 703
+        width: 46
+        height: 69
+      alignment: 9
+      pivot: {x: 0.43478262, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0012
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 703
+        width: 44
+        height: 69
+      alignment: 9
+      pivot: {x: 0.45454544, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0013
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 647
+        width: 44
+        height: 69
+      alignment: 9
+      pivot: {x: 0.45454544, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0014
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 634
+        width: 44
+        height: 69
+      alignment: 9
+      pivot: {x: 0.45454544, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0015
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 632
+        width: 44
+        height: 69
+      alignment: 9
+      pivot: {x: 0.45454544, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0016
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 632
+        width: 44
+        height: 69
+      alignment: 9
+      pivot: {x: 0.45454544, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0017
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 866
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0018
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 632
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0019
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 576
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0020
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 563
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0021
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 561
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0022
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 561
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0023
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 561
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0024
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 505
+        width: 41
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0025
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 492
+        width: 41
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0026
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 490
+        width: 41
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0027
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 490
+        width: 41
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 676
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0029
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 662
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0030
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 661
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0031
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 658
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0032
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 490
+        width: 41
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0033
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 419
+        width: 46
+        height: 69
+      alignment: 9
+      pivot: {x: 0.43478262, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0034
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 419
+        width: 44
+        height: 69
+      alignment: 9
+      pivot: {x: 0.45454544, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0035
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 419
+        width: 44
+        height: 69
+      alignment: 9
+      pivot: {x: 0.45454544, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0036
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 348
+        width: 44
+        height: 69
+      alignment: 9
+      pivot: {x: 0.45454544, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0037
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 490
+        width: 43
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4651163, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0038
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 348
+        width: 43
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4651163, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0039
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 859
+        width: 43
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4651163, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0040
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 846
+        width: 43
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4651163, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0041
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 655
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0042
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 654
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0043
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 605
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0044
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 591
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0045
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 590
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0046
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 587
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0047
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 249
+        width: 40
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0048
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 235
+        width: 40
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0049
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 234
+        width: 40
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0050
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 231
+        width: 40
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0051
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 584
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0052
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 583
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0053
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 534
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0054
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 520
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0055
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 519
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0056
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 348
+        width: 45
+        height: 69
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0057
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 277
+        width: 46
+        height: 69
+      alignment: 9
+      pivot: {x: 0.43478262, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0058
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 859
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0059
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 844
+        width: 43
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4651163, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0060
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 887
+        width: 40
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51492536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0061
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 228
+        width: 40
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0062
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 227
+        width: 40
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0063
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 220
+        width: 40
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0064
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 277
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0065
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 277
+        width: 52
+        height: 69
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0066
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 206
+        width: 58
+        height: 69
+      alignment: 9
+      pivot: {x: 0.3448276, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0067
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 516
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0068
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 513
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0069
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 512
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0070
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 434
+        width: 41
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0071
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 463
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0072
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 844
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0073
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 817
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0074
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 803
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0075
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 13
+        width: 46
+        height: 70
+      alignment: 9
+      pivot: {x: 0.43478262, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0076
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 207
+        width: 40
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0077
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 449
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0078
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 448
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0079
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 445
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0080
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 77
+        width: 42
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0081
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 206
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0082
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 206
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0083
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 163
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0084
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 160
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0085
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 157
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0086
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 156
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0087
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 149
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0088
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 136
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0089
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 803
+        width: 42
+        height: 68
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0090
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 873
+        width: 42
+        height: 67
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.51492536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0091
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 929
+        width: 68
+        height: 52
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.66346157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0092
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 936
+        width: 69
+        height: 45
+      alignment: 9
+      pivot: {x: 0.28985506, y: 0.76666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0093
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 956
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.8214286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0094
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 942
+        width: 75
+        height: 42
+      alignment: 9
+      pivot: {x: 0.26666668, y: 0.8214286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0095
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 983
+        width: 68
+        height: 40
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.8625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0096
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 983
+        width: 69
+        height: 40
+      alignment: 9
+      pivot: {x: 0.28985506, y: 0.8625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0097
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 986
+        width: 82
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24390244, y: 0.9324324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0098
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 5
+        width: 55
+        height: 70
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0099
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 135
+        width: 54
+        height: 69
+      alignment: 9
+      pivot: {x: 0.37037036, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0100
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 135
+        width: 54
+        height: 69
+      alignment: 9
+      pivot: {x: 0.37037036, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0101
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 135
+        width: 54
+        height: 69
+      alignment: 9
+      pivot: {x: 0.37037036, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0102
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 442
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0103
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 441
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0104
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 421
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0105
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 800
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.45454544, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0106
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 797
+        width: 42
+        height: 68
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0107
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 796
+        width: 46
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0108
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 873
+        width: 51
+        height: 67
+      alignment: 9
+      pivot: {x: 0.39215687, y: 0.51492536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0109
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 916
+        width: 41
+        height: 65
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.5307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0110
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 916
+        width: 41
+        height: 65
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.5307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0111
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 177
+        width: 40
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 392
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0113
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 789
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0114
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 982
+        width: 33
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0.8414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0115
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 984
+        width: 33
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0.88461536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0116
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1000
+        width: 35
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5714286, y: 1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1007
+        width: 35
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5714286, y: 2.15625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0118
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 378
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0119
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 377
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0120
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 374
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0121
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 371
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0122
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 370
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0123
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 363
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0124
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 92
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0125
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 350
+        width: 41
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0126
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 64
+        width: 44
+        height: 69
+      alignment: 9
+      pivot: {x: 0.45454544, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0127
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 64
+        width: 46
+        height: 69
+      alignment: 9
+      pivot: {x: 0.43478262, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0128
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 789
+        width: 42
+        height: 68
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0129
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 776
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0130
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 870
+        width: 42
+        height: 67
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.51492536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0131
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 867
+        width: 44
+        height: 67
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.51492536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0132
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 914
+        width: 51
+        height: 66
+      alignment: 9
+      pivot: {x: 0.39215687, y: 0.52272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0133
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 774
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0134
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 774
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0135
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0136
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 307
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0137
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 306
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0138
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 939
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.8214286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0139
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 983
+        width: 68
+        height: 40
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.8625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0140
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 983
+        width: 69
+        height: 40
+      alignment: 9
+      pivot: {x: 0.28985506, y: 0.8625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0141
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 40
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0142
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 40
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0143
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 20
+        width: 40
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0144
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 303
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0145
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 300
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0146
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 89
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0147
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 299
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0148
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 86
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0149
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 292
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0150
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 279
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0151
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 85
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0152
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 747
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Nintendo 64 - Paper Mario - Peach_0153
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 733
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
