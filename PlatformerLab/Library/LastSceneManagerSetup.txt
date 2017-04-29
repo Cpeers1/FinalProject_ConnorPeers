@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Scenes/TestScene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/SMW_AASF/TestLevel.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Hud.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/TestLevel1.unity
+  isLoaded: 1
+  isActive: 1
